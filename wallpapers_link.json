@@ -1,0 +1,20 @@
+[{
+    "category_name": "Nature",
+    "image_list": [
+        {"image_path": "https://api.pexels.com/v1/photos/15286"},
+        {"image_path": "https://api.pexels.com/v1/photos/3408744"},
+        {"image_path": "https://api.pexels.com/v1/photos/2662116"},
+        {"image_path": "https://api.pexels.com/v1/photos/235621"},
+        {"image_path": "https://api.pexels.com/v1/photos/2559941"}
+    ]
+},
+{
+    "category_name": "Black & White",
+    "image_list": [
+        {"image_path": "https://api.pexels.com/v1/photos/3048527"},
+        {"image_path": "https://api.pexels.com/v1/photos/6760183"},
+        {"image_path": "https://api.pexels.com/v1/photos/6011998"},
+        {"image_path": "https://api.pexels.com/v1/photos/5976878"},
+        {"image_path": "https://api.pexels.com/v1/photos/3345875"}
+    ]
+}]
